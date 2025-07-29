@@ -1,3 +1,4 @@
+<img width="1709" height="756" alt="Screenshot 2025-07-29 103936" src="https://github.com/user-attachments/assets/d6712dc5-a502-43cc-b19c-a4455a6ef95e" />
 # Section 1: Start Your Cybersecurity Journey
 
 ## 🧭 Overview
