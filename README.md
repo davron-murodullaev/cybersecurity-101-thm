@@ -60,15 +60,14 @@ Each section is a folder with a `summary.md` file containing detailed insights.
 **Name:** Davron Murodullaev  
 **Based in:** Germany  
 **Focus:** Cybersecurity (Red Team + Blue Team), Web App Security, Linux, and Networking  
-**Portfolio:** [github.com/davron-murodullaev](https://github.com/davron-murodullaev)
+**Portfolio:** (https://github.com/davron-murodullaev)
 
 ---
 
 ## 📨 Contact
 
-- 📧 Email: *youremail@example.com*  
-- 💼 LinkedIn: *[Add link if available]*  
-- 🌐 Website: *[Optional if you plan to make one]*
+- 📧 Email: mr.davron.murodullaev@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/davron-murodullayev/
 
 ---
 
