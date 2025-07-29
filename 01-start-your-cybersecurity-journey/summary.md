@@ -32,6 +32,6 @@ gobuster dir -u http://fakebank.thm -w /usr/share/wordlists/dirb/common.txt
 
 ## 📷 Screenshot
 
-![Start Your Cyber Security Journey](<img width="1709" height="756" alt="image" src="https://github.com/user-attachments/assets/ec213cb7-316f-4a9b-99c6-d483c419d4f7" />)
+![Start Your Cyber Security Journey](<img width="1709" height="756" alt="image" src="https://github.com/cybersecurity-101-thm/01-start-your-cybersecurity-journey/sections-1"/>)
 
 
