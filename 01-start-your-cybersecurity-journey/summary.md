@@ -30,5 +30,7 @@ gobuster dir -u http://fakebank.thm -w /usr/share/wordlists/dirb/common.txt
 # Simulate the attack by visiting the URL and transferring funds
 
 
-<img width="1712" height="742" alt="image" src="https://github.com/user-attachments/assets/7de2c922-2030-4db2-a927-f1cbad695bec" />
+## 📷 Screenshot
+
+![Start Your Cyber Security Journey](../assets/section-01-start-your-cybersecurity-journey.png)
 
