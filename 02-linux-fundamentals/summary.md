@@ -54,3 +54,8 @@ Linux is the operating system that powers most servers, cloud infrastructure, co
 - [Hands‑on walkthrough: Linux Fundamentals Part 1](https://medium.com/@hammaadm/tryhackme-linux-fundamentals-part-i-15453d23c926) :contentReference[oaicite:7]{index=7}  
 - [Utilities, file manipulation, and process control labs walkthrough](https://inventyourshit.com/tryhackme-linux-fundamentals-part-3/) :contentReference[oaicite:8]{index=8}
 
+- ## Screenshot
+- 
+<img width="1700" height="760" alt="Screenshot 2025-07-29 134250" src="https://github.com/user-attachments/assets/a73ae06a-acc5-4281-9ed0-f120026c7c63" />
+
+
